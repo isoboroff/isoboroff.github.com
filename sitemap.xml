@@ -100,7 +100,22 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>https://isoboroff.github.io/categories/clueweb.html</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://isoboroff.github.io/categories/hadoop.html</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>https://isoboroff.github.io/categories/index.html</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://isoboroff.github.io/categories/lucene.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
