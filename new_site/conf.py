@@ -9,15 +9,15 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Joe Example"
-BLOG_TITLE = "pseudo . posterous"
+BLOG_AUTHOR = "Ian Soboroff"
+BLOG_TITLE = "In No Particular Order"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://foo.com"
+SITE_URL = "https://isoboroff.github.io/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://foo.com"
-BLOG_EMAIL = "joe@example.com"
+BLOG_EMAIL = "isoboroff at gmail"
 BLOG_DESCRIPTION = "search, evaluation, social media, big data, and music"
 
 # Nikola is multilingual!
@@ -91,6 +91,10 @@ SIDEBAR_LINKS = {
 post_pages = (
             ("posts/*.wp", "posts", "post.tmpl", True),
             ("stories/*.wp", "stories", "story.tmpl", False),
+            ("posts/*.md", "posts", "post.tmpl", True),
+            ("stories/*.md", "stories", "story.tmpl", False),
+            ("posts/*.rst", "posts", "post.tmpl", True),
+            ("stories/*.rst", "stories", "story.tmpl", False),
         )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -170,7 +174,7 @@ REDIRECTIONS = [(u'a-simple-gardenhose-catcher/index.html', u'/posts/a-simple-ga
 # "rsync -rav output/* joe@my.site:/srv/www/site"
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
-# DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = ['(cd output; git add .; git commit -as; git push origin master)']
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -436,7 +440,7 @@ CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
 # (ex. 2012-03-30T23:00:00+02:00),
 # set timzone if you want a localized posted date.
 #
-TIMEZONE = 'America/Anchorage'
+TIMEZONE = 'America/New_York'
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
 # USE_BUNDLES = True
