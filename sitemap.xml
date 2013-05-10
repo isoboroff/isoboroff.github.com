@@ -5,417 +5,437 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://foo.com</loc>
+  <loc>https://isoboroff.github.io/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/2009/</loc>
+  <loc>https://isoboroff.github.io/2009/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/2009/index.html</loc>
+  <loc>https://isoboroff.github.io/2009/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/2010/</loc>
+  <loc>https://isoboroff.github.io/2010/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/2010/index.html</loc>
+  <loc>https://isoboroff.github.io/2010/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/2011/</loc>
+  <loc>https://isoboroff.github.io/2011/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/2011/index.html</loc>
+  <loc>https://isoboroff.github.io/2011/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/a-simple-gardenhose-catcher/</loc>
+  <loc>https://isoboroff.github.io/2013/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/a-simple-gardenhose-catcher/index.html</loc>
+  <loc>https://isoboroff.github.io/2013/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/ais-are-programs/</loc>
+  <loc>https://isoboroff.github.io/a-simple-gardenhose-catcher/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/ais-are-programs/index.html</loc>
+  <loc>https://isoboroff.github.io/a-simple-gardenhose-catcher/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/archive.html</loc>
+  <loc>https://isoboroff.github.io/ais-are-programs/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/benchmarking-lzo-compression-in-hbase/</loc>
+  <loc>https://isoboroff.github.io/ais-are-programs/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/benchmarking-lzo-compression-in-hbase/index.html</loc>
+  <loc>https://isoboroff.github.io/archive.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/building-a-git-rpm-with-docs-the-easy-way/</loc>
+  <loc>https://isoboroff.github.io/benchmarking-lzo-compression-in-hbase/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/building-a-git-rpm-with-docs-the-easy-way/index.html</loc>
+  <loc>https://isoboroff.github.io/benchmarking-lzo-compression-in-hbase/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/categories/</loc>
+  <loc>https://isoboroff.github.io/building-a-git-rpm-with-docs-the-easy-way/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/categories/index.html</loc>
+  <loc>https://isoboroff.github.io/building-a-git-rpm-with-docs-the-easy-way/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/detection-theory-and-airport-screening/</loc>
+  <loc>https://isoboroff.github.io/categories/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/detection-theory-and-airport-screening/index.html</loc>
+  <loc>https://isoboroff.github.io/categories/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/fixing-firefox-error-203-during-add-on-instal/</loc>
+  <loc>https://isoboroff.github.io/categories/meta.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/fixing-firefox-error-203-during-add-on-instal/index.html</loc>
+  <loc>https://isoboroff.github.io/detection-theory-and-airport-screening/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/galleries/</loc>
+  <loc>https://isoboroff.github.io/detection-theory-and-airport-screening/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/galleries/index.html</loc>
+  <loc>https://isoboroff.github.io/fixing-firefox-error-203-during-add-on-instal/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/getting-clueweb-into-hbase/</loc>
+  <loc>https://isoboroff.github.io/fixing-firefox-error-203-during-add-on-instal/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/getting-clueweb-into-hbase/index.html</loc>
+  <loc>https://isoboroff.github.io/galleries/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/getting-large-collections-into-lucene-via-seq/</loc>
+  <loc>https://isoboroff.github.io/galleries/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/getting-large-collections-into-lucene-via-seq/index.html</loc>
+  <loc>https://isoboroff.github.io/getting-clueweb-into-hbase/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/getting-started-106/</loc>
+  <loc>https://isoboroff.github.io/getting-clueweb-into-hbase/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/getting-started-106/index.html</loc>
+  <loc>https://isoboroff.github.io/getting-large-collections-into-lucene-via-seq/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/icwsm-2010/</loc>
+  <loc>https://isoboroff.github.io/getting-large-collections-into-lucene-via-seq/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/icwsm-2010/index.html</loc>
+  <loc>https://isoboroff.github.io/getting-started-106/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/im-in-love-with-a-pod/</loc>
+  <loc>https://isoboroff.github.io/getting-started-106/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/im-in-love-with-a-pod/index.html</loc>
+  <loc>https://isoboroff.github.io/icwsm-2010/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/index-1.html</loc>
+  <loc>https://isoboroff.github.io/icwsm-2010/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/index-2.html</loc>
+  <loc>https://isoboroff.github.io/im-in-love-with-a-pod/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/index.html</loc>
+  <loc>https://isoboroff.github.io/im-in-love-with-a-pod/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/jethro-tull-live-at-wolf-trap-8-june-10/</loc>
+  <loc>https://isoboroff.github.io/index-1.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/jethro-tull-live-at-wolf-trap-8-june-10/index.html</loc>
+  <loc>https://isoboroff.github.io/index-2.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/listings/</loc>
+  <loc>https://isoboroff.github.io/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/listings/index.html</loc>
+  <loc>https://isoboroff.github.io/jethro-tull-live-at-wolf-trap-8-june-10/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/migrating-gnus-nnml-to-a-dovecot-imap-server/</loc>
+  <loc>https://isoboroff.github.io/jethro-tull-live-at-wolf-trap-8-june-10/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/migrating-gnus-nnml-to-a-dovecot-imap-server/index.html</loc>
+  <loc>https://isoboroff.github.io/listings/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/new-bass-day-again/</loc>
+  <loc>https://isoboroff.github.io/listings/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/new-bass-day-again/index.html</loc>
+  <loc>https://isoboroff.github.io/migrating-gnus-nnml-to-a-dovecot-imap-server/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/new-bass-day-hohner-b2b-headless-bass/</loc>
+  <loc>https://isoboroff.github.io/migrating-gnus-nnml-to-a-dovecot-imap-server/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/new-bass-day-hohner-b2b-headless-bass/index.html</loc>
+  <loc>https://isoboroff.github.io/new-bass-day-again/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/new-bass-day/</loc>
+  <loc>https://isoboroff.github.io/new-bass-day-again/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/new-bass-day/index.html</loc>
+  <loc>https://isoboroff.github.io/new-bass-day-hohner-b2b-headless-bass/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/a-simple-gardenhose-catcher.html</loc>
+  <loc>https://isoboroff.github.io/new-bass-day-hohner-b2b-headless-bass/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/ais-are-programs.html</loc>
+  <loc>https://isoboroff.github.io/new-bass-day/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/benchmarking-lzo-compression-in-hbase.html</loc>
+  <loc>https://isoboroff.github.io/new-bass-day/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/building-a-git-rpm-with-docs-the-easy-way.html</loc>
+  <loc>https://isoboroff.github.io/posts/a-simple-gardenhose-catcher.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/detection-theory-and-airport-screening.html</loc>
+  <loc>https://isoboroff.github.io/posts/ais-are-programs.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/fixing-firefox-error-203-during-add-on-instal.html</loc>
+  <loc>https://isoboroff.github.io/posts/benchmarking-lzo-compression-in-hbase.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/getting-clueweb-into-hbase.html</loc>
+  <loc>https://isoboroff.github.io/posts/building-a-git-rpm-with-docs-the-easy-way.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/getting-large-collections-into-lucene-via-seq.html</loc>
+  <loc>https://isoboroff.github.io/posts/detection-theory-and-airport-screening.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/getting-started-106.html</loc>
+  <loc>https://isoboroff.github.io/posts/fixing-firefox-error-203-during-add-on-instal.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/icwsm-2010.html</loc>
+  <loc>https://isoboroff.github.io/posts/getting-clueweb-into-hbase.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/im-in-love-with-a-pod.html</loc>
+  <loc>https://isoboroff.github.io/posts/getting-large-collections-into-lucene-via-seq.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/jethro-tull-live-at-wolf-trap-8-june-10.html</loc>
+  <loc>https://isoboroff.github.io/posts/getting-started-106.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/migrating-gnus-nnml-to-a-dovecot-imap-server.html</loc>
+  <loc>https://isoboroff.github.io/posts/home-sweet-home.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/new-bass-day-again.html</loc>
+  <loc>https://isoboroff.github.io/posts/icwsm-2010.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/new-bass-day-hohner-b2b-headless-bass.html</loc>
+  <loc>https://isoboroff.github.io/posts/im-in-love-with-a-pod.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/new-bass-day.html</loc>
+  <loc>https://isoboroff.github.io/posts/jethro-tull-live-at-wolf-trap-8-june-10.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/storing-and-processing-big-data.html</loc>
+  <loc>https://isoboroff.github.io/posts/migrating-gnus-nnml-to-a-dovecot-imap-server.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/the-ladder-of-user-tracking-and-privacy.html</loc>
+  <loc>https://isoboroff.github.io/posts/new-bass-day-again.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/the-philosophy-of-gtacw.html</loc>
+  <loc>https://isoboroff.github.io/posts/new-bass-day-hohner-b2b-headless-bass.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/towards-a-more-useful-alternative-than-accept.html</loc>
+  <loc>https://isoboroff.github.io/posts/new-bass-day.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/victor-wooten-and-jd-blair-at-the-birchmere-1.html</loc>
+  <loc>https://isoboroff.github.io/posts/storing-and-processing-big-data.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/posts/xfsrepair-and-immense-filesystems.html</loc>
+  <loc>https://isoboroff.github.io/posts/the-ladder-of-user-tracking-and-privacy.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/storing-and-processing-big-data/</loc>
+  <loc>https://isoboroff.github.io/posts/the-philosophy-of-gtacw.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/storing-and-processing-big-data/index.html</loc>
+  <loc>https://isoboroff.github.io/posts/towards-a-more-useful-alternative-than-accept.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/the-ladder-of-user-tracking-and-privacy/</loc>
+  <loc>https://isoboroff.github.io/posts/victor-wooten-and-jd-blair-at-the-birchmere-1.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/the-ladder-of-user-tracking-and-privacy/index.html</loc>
+  <loc>https://isoboroff.github.io/posts/xfsrepair-and-immense-filesystems.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/the-philosophy-of-gtacw/</loc>
+  <loc>https://isoboroff.github.io/storing-and-processing-big-data/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/the-philosophy-of-gtacw/index.html</loc>
+  <loc>https://isoboroff.github.io/storing-and-processing-big-data/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/towards-a-more-useful-alternative-than-accept/</loc>
+  <loc>https://isoboroff.github.io/the-ladder-of-user-tracking-and-privacy/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/towards-a-more-useful-alternative-than-accept/index.html</loc>
+  <loc>https://isoboroff.github.io/the-ladder-of-user-tracking-and-privacy/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/victor-wooten-and-jd-blair-at-the-birchmere-1/</loc>
+  <loc>https://isoboroff.github.io/the-philosophy-of-gtacw/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/victor-wooten-and-jd-blair-at-the-birchmere-1/index.html</loc>
+  <loc>https://isoboroff.github.io/the-philosophy-of-gtacw/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/xfsrepair-and-immense-filesystems/</loc>
+  <loc>https://isoboroff.github.io/towards-a-more-useful-alternative-than-accept/</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://foo.com/xfsrepair-and-immense-filesystems/index.html</loc>
+  <loc>https://isoboroff.github.io/towards-a-more-useful-alternative-than-accept/index.html</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://isoboroff.github.io/victor-wooten-and-jd-blair-at-the-birchmere-1/</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://isoboroff.github.io/victor-wooten-and-jd-blair-at-the-birchmere-1/index.html</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://isoboroff.github.io/xfsrepair-and-immense-filesystems/</loc>
+  <lastmod>2013-05-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>https://isoboroff.github.io/xfsrepair-and-immense-filesystems/index.html</loc>
   <lastmod>2013-05-10</lastmod>
   <priority>0.5000</priority>
  </url>
