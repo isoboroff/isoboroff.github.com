@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>In No Particular Order (meta)</title><link>https://isoboroff.github.io/</link><description>search, evaluation, social media, big data, and music</description><lastBuildDate>Fri, 10 May 2013 15:30:22 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Home sweet home</title><link>https://isoboroff.github.io//posts/home-sweet-home.html</link><description>&lt;p&gt;Since Posterous is going away real soon now, I needed to migrate my
+<rss version="2.0"><channel><title>In No Particular Order (meta)</title><link>https://isoboroff.github.io/</link><description>search, evaluation, social media, big data, and music</description><lastBuildDate>Fri, 10 May 2013 16:02:45 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Home sweet home</title><link>https://isoboroff.github.io//posts/home-sweet-home.html</link><description>&lt;p&gt;Since Posterous is going away real soon now, I needed to migrate my
 old site from pseudo.posterous.com.  Well, 'need' is of course a
 relative term, but the old site did have some posts on using ClueWeb
 and HBase which some folks might still find useful.&lt;/p&gt;
@@ -30,4 +30,8 @@ Voila, everything in git and github.&lt;/p&gt;
 &lt;p&gt;This is really just a test post to see that everything's working.  If
 it is, you can &lt;a href="https://github.com/isoboroff/isoboroff.github.com/blob/src/new_site/conf.py"&gt;see my
 conf.py&lt;/a&gt;
-which shows how its done.&lt;/p&gt;</description><category>meta</category><guid>https://isoboroff.github.io//posts/home-sweet-home.html</guid><pubDate>Fri, 10 May 2013 18:36:19 GMT</pubDate></item></channel></rss>
+which shows how its done.&lt;/p&gt;
+&lt;p&gt;PS. The Wordpress import has failed to understand a number of posts
+containing code.  I am in the process of porting those old pages to
+Markdown so they are actually usable again.  This has allowed me to
+test deployment and it works awesomely.&lt;/p&gt;</description><category>meta</category><guid>https://isoboroff.github.io//posts/home-sweet-home.html</guid><pubDate>Fri, 10 May 2013 18:36:19 GMT</pubDate></item></channel></rss>

@@ -44,3 +44,8 @@ This is really just a test post to see that everything's working.  If
 it is, you can [see my
 conf.py](https://github.com/isoboroff/isoboroff.github.com/blob/src/new_site/conf.py)
 which shows how its done.
+
+PS. The Wordpress import has failed to understand a number of posts
+containing code.  I am in the process of porting those old pages to
+Markdown so they are actually usable again.  This has allowed me to
+test deployment and it works awesomely.
