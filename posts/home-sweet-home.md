@@ -19,7 +19,7 @@ maintained in a git repository, and I can edit and push changes from
 the command line.
 
 After reading [this
-post][http://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/]
+post](http://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/)
 I spent some time reading up on static page generators and, after
 playing with Jekyll-bootstrap and recoiling from its Ruby-ness (sorry, it's
 just me), I settled on [Nikola][http://nikola.ralsina.com.ar/], which
@@ -27,11 +27,11 @@ is implemented in Python, a language I already speak.
 
 A Posterous dump comes down basically in WordPress format, and Nikola
 can import that.  The
-[instructions][http://nikola.ralsina.com.ar/handbook.html#importing-your-wordpress-site-into-nikola]
+[instructions](http://nikola.ralsina.com.ar/handbook.html#importing-your-wordpress-site-into-nikola)
 on that couldn't be simpler.
 
 To work with github, I followed some advice from [this
-thread][https://groups.google.com/forum/#!topic/nikola-discuss/aDbsPtu4pNc].
+thread](https://groups.google.com/forum/#!topic/nikola-discuss/aDbsPtu4pNc).
 I created a branch called 'src', and in that branch set up a
 virtualenv with Nikola and all the parts it wanted.  I then ported my
 site, which created a directory 'new_site'.  'nikola build' went fine
@@ -42,5 +42,5 @@ Voila, everything in git and github.
 
 This is really just a test post to see that everything's working.  If
 it is, you can [see my
-conf.py][https://github.com/isoboroff/isoboroff.github.com/blob/src/new_site/conf.py]
+conf.py](https://github.com/isoboroff/isoboroff.github.com/blob/src/new_site/conf.py)
 which shows how its done.
